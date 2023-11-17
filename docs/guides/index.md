@@ -42,5 +42,6 @@ The following guides have been written to help you get started with ZIO with min
 ## Migration Guides
 
 1. [ZIO 2.x Migration Guide](migrate/migration-guide.md)
-2. [How to Migrate from Cats Effect to ZIO?](migrate/from-cats-effect.md)
-3. [How to Migrate from Monix to ZIO?](migrate/from-monix.md)
+2. [How to Migrate from Akka?](migrate/from-akka.md)
+3. [How to Migrate from Cats Effect to ZIO?](migrate/from-cats-effect.md)
+4. [How to Migrate from Monix to ZIO?](migrate/from-monix.md)
